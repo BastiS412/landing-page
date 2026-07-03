@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    justify-content: center;
+
+}
+
+.page {
+    min-width: 1000px;
+    border-style: solid;
+    background-color: black;
+}
