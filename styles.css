@@ -7,5 +7,5 @@ body {
 .page {
     min-width: 1000px;
     border-style: solid;
-    background-color: black;
+    background-color: rgb(255, 255, 255);
 }
